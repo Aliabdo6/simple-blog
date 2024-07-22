@@ -1,5 +1,5 @@
-```markdown
-# My Blog
+
+# simple basics blog
 
 A modern, feature-rich blog application built with Next.js, MongoDB, and Clerk for authentication.
 
