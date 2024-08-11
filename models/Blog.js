@@ -5,7 +5,6 @@ const BlogSchema = new mongoose.Schema({
   content: String,
   authorId: String,
   authorName: String,
-  authorEmail: String,
   createdAt: { type: Date, default: Date.now },
 });
 
